@@ -1,0 +1,4 @@
+(function() {
+	
+
+}).apply( this, [ jQuery ]);
